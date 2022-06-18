@@ -1,5 +1,5 @@
 
 #HARSH
 
-![harsh](./img/harsh.JPG)
+![harsh](../img/harsh.JPG)
 
